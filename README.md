@@ -10,6 +10,8 @@ The goal of this project is to demonstrate how different geometric operations af
 Geometric transformations are operations that modify the spatial relationship of pixels in an image.  
 They are fundamental in image processing and computer vision because they help in aligning, scaling, rotating, and mapping images to new perspectives.  
 
+---
+
 This project covers four types of transformations:
 
 1. **Euclidean Transformation**  
